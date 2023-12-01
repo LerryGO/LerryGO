@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a8f3&height=120&section=header"/>
+
 <!--- FOLLOWERS -->
 <a href="https://www.github.com/LerryGO" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LerryGO?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/lerry_augusto" target="_blank" rel="noreferrer"><img
@@ -15,7 +17,7 @@ src="https://img.shields.io/twitter/follow/lerry_augusto?logo=twitter&style=for-
   <img src="https://komarev.com/ghpvc/?username=LerryGO&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-26-blue" />
   <img src="https://img.shields.io/badge/Focus-Mobile Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Português-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-brightgreen" />
 </p>
 
 <!-- DESCRIPTION -->
@@ -80,3 +82,5 @@ Olá! Eu sou Lerry Augusto, desenvolvedor Flutter formado pela FATEC. Minha paix
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a8f3&height=120&section=footer"/>
