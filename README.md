@@ -70,10 +70,10 @@ Olá! Eu sou Lerry Augusto, desenvolvedor Flutter formado pela FATEC. Minha paix
 ## 💬 Entre em contato
 
 <p align="center">
-<a href="https://github.com/LerryGO"><img src="https://img.shields.io/badge/-Lerry Augusto-3423A6?style=flat&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/lerry-augusto"><img src="https://img.shields.io/badge/-Lerry%20Augusto-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/LerryGO"><img src="https://img.shields.io/badge/-LerryGO-3423A6?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/lerry-augusto"><img src="https://img.shields.io/badge/-Lerry_Augusto-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lerry.pirani@gmail.com"><img src="https://img.shields.io/badge/-lerry.pirani@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/lerry_augusto"><img src="https://img.shields.io/badge/-@lerry_augusto-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/lerry_augusto"><img src="https://img.shields.io/badge/-@lerry__augusto-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/lerry.sud"><img src="https://img.shields.io/badge/-@lerry.sud-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
