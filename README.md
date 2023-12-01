@@ -1,13 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lerry Augusto
-=====================================================================================================================================
-
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Mobile Flutter Developer
-------------------------
 <!--- FOLLOWERS -->
 <a href="https://www.github.com/LerryGO" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LerryGO?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/lerry_augusto" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lerry_augusto?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+<h1 align="center">Hi 👋, My name is Lerry Augusto</h1>
+<h3 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Mobile Flutter Developer.</h3>
+
+
+------------------------
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LerryGO&color=brightgreen" alt="watching_count" />
