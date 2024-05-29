@@ -78,8 +78,6 @@ Olá! Eu sou Lerry Augusto, desenvolvedor Flutter formado pela FATEC. Minha paix
 </p>
 
 <!--- snake -->
-<div align="center">
  ![snake animation](https://github.com/LerryGO/LerryGO/blob/output/github-contribution-grid-snake2.svg)
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a8f3&height=120&section=footer"/>
