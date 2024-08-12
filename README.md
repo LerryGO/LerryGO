@@ -7,7 +7,7 @@ src="https://img.shields.io/twitter/follow/lerry_augusto?logo=twitter&style=for-
 /></a>
 
 <h1 align="center">Hi 👋, My name is Lerry Augusto</h1>
-<h3 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Flutter Mobile Developer.</h3>
+<h3 align="center"><picture><img src = "https://github.com/user-attachments/assets/19cb5cdd-c8a3-4c67-83b0-03335f7df639" width = 50px></picture><center>Flutter Mobile Developer.</center></h3>
 
 
 ------------------------
@@ -24,8 +24,14 @@ src="https://img.shields.io/twitter/follow/lerry_augusto?logo=twitter&style=for-
 Olá! Eu sou Lerry Augusto, desenvolvedor Flutter formado pela FATEC. Minha paixão está em criar soluções inovadoras para o mundo mobile. Além disso, tenho interesse em automação residencial e backend. Como defensor de uma programação limpa, estou sempre pronto para aprender e colaborar. Membro ativo da Academia do Flutter e Flutterando. Vamos juntos construir algo extraordinário!
 
 * 🌍  Sou morador da cidade de Franca, São Paulo
-* 🚀  Estou trabalhando na empresa [Irroba E-commerce](http://https://www.irroba.com.br/)
-* 🧠  Estou estudando Flutter/Dart/Shelf
+* 🚀  Estou programando no momento
+* 🧠  Estou estudando Flutter/Dart/Shelf/Java
+
+## 📝 Projetos feitos 
+
+<a href="https://play.google.com/store/apps/details?id=br.com.onde_esta_voce&hl=pt_BR">Onde está você?</a>  - Aplicativo de classificados online
+
+<a href="https://play.google.com/store/apps/details?id=com.izagro.izconsultores&hl=pt_BR">IZConsultores?</a>  - Aplicativo IZConsultores traz aos agrônomos e técnicos agrícolas a tecnologia na palma da mão, para que sua visita técnica seja o mais eficiente e produtiva possível.
 
 
 
@@ -77,7 +83,5 @@ Olá! Eu sou Lerry Augusto, desenvolvedor Flutter formado pela FATEC. Minha paix
 <a href="https://facebook.com/lerry.sud"><img src="https://img.shields.io/badge/-@lerry.sud-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<!--- snake -->
- ![snake animation](https://github.com/LerryGO/LerryGO/blob/output/github-contribution-grid-snake2.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a8f3&height=120&section=footer"/>
