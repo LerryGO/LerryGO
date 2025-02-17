@@ -7,7 +7,7 @@ src="https://img.shields.io/twitter/follow/lerry_augusto?logo=twitter&style=for-
 /></a>
 
 <h1 align="center">Hi 👋, My name is Lerry Augusto</h1>
-<h3 align="center"><picture><img src = "https://github.com/user-attachments/assets/19cb5cdd-c8a3-4c67-83b0-03335f7df639" width = 50px></picture><center>Flutter Mobile Developer.</center></h3>
+<h3 align="center"><picture><img src = "https://github.com/user-attachments/assets/19cb5cdd-c8a3-4c67-83b0-03335f7df639" width = 50px></picture><center>Flutter | Java Spring Developer  </center></h3>
 
 
 ------------------------
